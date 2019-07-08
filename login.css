@@ -1,0 +1,153 @@
+#wrapper{font-family:tahoma;}
+.container{
+	width:100%;
+    max-width: 1280x;
+}
+#subheader {
+	width:100%;
+	height:30px;
+	background:black;
+	color:black;
+	margin-top:-15px;	
+}
+#subheader p {
+	float:left;
+	margin-top:7px;
+}
+/*logo styling*/
+#main-header {
+	width: 100%;
+	height: 100px;
+	background:#fff;
+	float:left;
+	margin-top:-15px;
+}
+#logo {
+    width:400px;
+    margin-top:30x;
+    float:left;
+}
+#ist {
+    color:orange;
+    font-size:50px;
+    font-weight:bold;
+    margin-left:20px;
+    font-family:bold;  
+}
+
+#search {
+    width: 850px;
+    float: left;
+    padding: 20px;
+    margin-left:80px;
+}
+.search-area {
+    width: 600px;
+    height: 40px;
+    background: #fff;
+    float:left;
+    padding-left: 30px;
+}
+.search-btn {
+    width: 80px;
+    height: 40px;
+    border: none;
+    color: #fff;
+    background: cadetblue;
+    margin-left: -80.1px;
+}
+#user-menu {
+    width: 300px;
+    float: right;
+    margin-top: 20px;
+}
+#user-menu li {
+    float:left;
+    width: 149px;
+    text-align: center;
+    list-style: none;
+    font-size:20px;
+    border-left:1px solid black;
+}
+#user-menu li:hover {
+    font-size:30px;
+    trasition: all .5s ease;
+}
+#user-menu li a {
+    color:black;
+    text-decoration:none;
+}
+
+#navigation {
+    width: 100%;
+    height: 35px;
+    background:orange;
+    float: left;
+}
+
+nav {
+    width: 1280px;
+    margin: 0 auto;
+}
+nav a{
+    margin-left: 80px;
+    line-height: 35px;
+    color: black;
+    font size: 19px;
+    text-decoration: none;
+}
+nav a:hover {
+    color: green;
+    transition: all .7s ease;
+}
+
+#containe {
+     width: 400px;
+    float: left;
+    padding: 20px;
+    margin-left:250px;
+    margin-top: -20px;
+    
+}
+.text {
+    width: 300px;
+    height: 30px;
+    background: #fff;
+    float:left;
+    padding-left: 15px;
+}
+.password {
+    width: 300px;
+    height: 30px;
+    background: #fff;
+    float:left;
+    padding-left: 15px;
+    margin-top: 10px;
+}
+#forgot {
+    margin-top: 90px;
+}
+#forgot a{
+     text-decoration: none;
+    font-family: arial;
+}
+.submit {
+    width: 100px;
+    height: 30px;
+    margin-top: 10px;
+    border: none;
+    color: #fff;
+    background: cadetblue;
+    margin-left:10px;
+}
+.signup {
+    margin-top: -39px;
+     margin-left:125px;
+}
+.signup a {
+      text-decoration: none;
+    color: blue;
+}
+.footer{
+    margin-top: 450px;
+}
